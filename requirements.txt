@@ -1,0 +1,4 @@
+fastmcp
+uvicorn
+psycopg2-binary
+pytest

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sqlite-lab": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["C:\\Users\\ACER\\Downloads\\Day26-Track3-HoTranDinhNguyen-2A202600080\\mcp_server.py"]
+    }
+  }
+}
